@@ -1,0 +1,4 @@
+*.class
+java-labs/*.png
+java-labs/*.jpg
+.vscode/
